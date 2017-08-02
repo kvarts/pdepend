@@ -1,5 +1,5 @@
 {
-    "name": "pdepend/pdepend",
+    "name": "kvarts/pdepend",
     "description": "Official version of pdepend to be handled with Composer",
     "license": "BSD-3-Clause",
     "require": {
